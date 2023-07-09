@@ -109,5 +109,3 @@ docker-compose down
 This command will stop and remove the containers created by Docker Compose.
 
 Make sure you have Docker and Docker Compose installed on your machine before running these commands. Adjust the commands according to your specific setup if necessary.
-
-Note: If you have already created the `docker-compose.yml` file as mentioned earlier, please use that file for starting and stopping the application using the provided `docker-compose up` and `docker-compose down` commands.
